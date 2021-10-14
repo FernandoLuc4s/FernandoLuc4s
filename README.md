@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com Analise de Transações
 - 🌱 Atualmente, estou aprendendo C # e .NET
-- 😄 Pronomes: Ele / Dele
 - ⚡ Curiosidade: Gosto bastante de música e sou violonista.
 
 <div align="center">
