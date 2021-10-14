@@ -20,7 +20,7 @@
   <img align="center" alt="Fernando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Fernando-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898042245142413345/898045598572372049/dormrm.gif">
+  <img align="right" alt="Fernando-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/898042245142413345/898045598572372049/dormrm.gif">
 </div>
   
   ##
