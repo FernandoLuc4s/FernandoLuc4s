@@ -1,6 +1,6 @@
 ### Hi there eu sou o Fernando Lucas
 
-- 🔭 Atualmente trabalho na Analise de Transações
+- 🔭 Atualmente trabalho com Analise de Transações
 - 🌱 Atualmente, estou aprendendo C # e .NET
 - 😄 Pronomes: Ele / Dele
 - ⚡ Curiosidade: Gosto bastante de música e sou violonista.
