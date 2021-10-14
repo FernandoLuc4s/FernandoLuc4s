@@ -1,4 +1,4 @@
-### Hi there eu sou o Fernando Lucas
+### Olá DEV ou Recrutador eu sou o Fernando Lucas
 
 - 🔭 Atualmente trabalho com Analise de Transações
 - 🌱 Atualmente, estou aprendendo C # e .NET
