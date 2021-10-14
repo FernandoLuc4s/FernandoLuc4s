@@ -1,9 +1,9 @@
 ### Hi there eu sou o Fernando Lucas
 
-- 🔭 I’m currently working on Analise de Transações
-- 🌱 I’m currently learning C# e .NET
-- 😄 Pronouns: Ele/Dele
-- ⚡ Fun fact: Gosto bastante de música e sou violonista 
+- 🔭 Atualmente trabalho na Analise de Transações
+- 🌱 Atualmente, estou aprendendo C # e .NET
+- 😄 Pronomes: Ele / Dele
+- ⚡ Curiosidade: Gosto bastante de música e sou violonista.
 
 <div align="center">
   <a href="https://github.com/fernandoLuc4s">
@@ -31,8 +31,8 @@
   <a href = "mailto:fernandolucas2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://wa.me/qr/UMV3IJOMZ74RP1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-lucas-6618261b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-
-  
-</div>  
+</div>
+<div>
+  ![Snake animation](https://github.com/FernandoLuc4s/FernandoLuc4s/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
