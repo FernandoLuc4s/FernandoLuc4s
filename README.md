@@ -1,7 +1,6 @@
 ### Olá DEV ou Recrutador eu sou o Fernando Lucas
 
-- 🔭 Atualmente trabalho com Analise de Transações
-- 🌱 Atualmente, estou aprendendo C # e .NET
+- 🔭 Atualmente trabalho com Desenvolvimento de sistemas
 - ⚡ Curiosidade: Gosto bastante de música e sou violonista.
 
 <div align="center">
